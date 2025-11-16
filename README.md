@@ -1,4 +1,4 @@
-Hi, I’m Ashmit Handoo
+Hi,
 
 I am a Bioengineering student at the University of Pennsylvania with a concentration in Computational Biology. My work sits at the intersection of engineering, machine learning, and healthcare, with a focus on building intelligent systems that translate real-world biomedical data into practical solutions.
 
