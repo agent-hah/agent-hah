@@ -18,6 +18,9 @@ An ICU-focused AI trained on MIMIC-IV data (using SQL and python) to provide pat
 Medscribe
 An agentic web platform built during the Penn x Anthropic Hackathon that transcribes doctor–patient conversations and generates EHR-ready clinical documentation.
 
+ResearchRAG
+An RAG website that serves as a boxed-in workspace for researchers. Integrates neon, pinecone, cloudflare, vercel, and render.
+
 Technical Skills
 
 Programming: Python, GitHub, Jupyter Notebook, Ocaml, MATLAB, Java, R, JavaScript, SQL, Google BigQuery, HTML, CSS, Docker
